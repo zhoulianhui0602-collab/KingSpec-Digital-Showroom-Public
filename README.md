@@ -9,7 +9,7 @@
 - 在线地址：[打开数字展厅](https://zhoulianhui0602-collab.github.io/KingSpec-Digital-Showroom-Public/)
 - 公开仓库：[KingSpec-Digital-Showroom-Public](https://github.com/zhoulianhui0602-collab/KingSpec-Digital-Showroom-Public)
 
-仓库已公开建立，Pages 正在首次部署；部署结果以仓库 Actions 记录和实际访问为准。网站部署成功后，访客无需 GitHub 账号即可访问，无需保持开发电脑开机。
+**已于 2026-10-16 公开上线。** 访客无需 GitHub 账号即可访问，无需保持开发电脑开机。首次部署、匿名访问及成品一致性检查已通过，记录见 [本次发布核验](docs/PUBLICATION_20261016.md)。
 
 ![桌面端展厅](docs/images/desktop.png)
 

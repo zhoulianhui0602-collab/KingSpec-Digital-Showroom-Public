@@ -1,0 +1,23 @@
+{
+  "url": "https://zhoulianhui0602-collab.github.io/KingSpec-Digital-Showroom-Public/",
+  "status": 200,
+  "bytes": 14323622,
+  "sha256": "AF52DE685288C2DF8641E6F5C600D52FD2DBD3EBB53BF92250890FAC6ED806A4",
+  "matchesAccepted": true,
+  "anonymous": true,
+  "desktop": {
+    "viewport": "1920×1080",
+    "ready": true,
+    "modelMeshes": 128,
+    "errors": [],
+    "overflow": false
+  },
+  "mobile": {
+    "viewport": "390×844",
+    "ready": true,
+    "errors": [],
+    "overflow": false
+  },
+  "pageErrors": [],
+  "scope": "Fresh Chromium context without GitHub login. Software renderer; no physical phone/Safari performance acceptance."
+}

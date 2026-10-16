@@ -4,7 +4,7 @@
 
 以 2026-10-15 接受的 Source / Preview 交付建立公开 GitHub 源码仓库，并配置任何人可直接访问的静态网页。完成发布所需的打包、许可范围说明、仓库配置与访问检查属于本轮任务；保持当前视觉和功能。
 
-目标仓库为 `zhoulianhui0602-collab/KingSpec-Digital-Showroom-Public`，目标 Pages 路径为同名项目路径。本文编写时远端发布尚未确认，不将目标链接当作成功证明。
+2026-10-16 已完成：公开仓库 `zhoulianhui0602-collab/KingSpec-Digital-Showroom-Public`、同名项目路径的 GitHub Pages、Ubuntu 自动构建及匿名访问核验。线上网页与接受成品 SHA-256 一致。发布事实见 `PUBLICATION_20261016.md`。
 
 ## 发布完成之后
 
