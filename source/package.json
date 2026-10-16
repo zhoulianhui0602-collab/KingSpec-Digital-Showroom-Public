@@ -1,0 +1,1 @@
+{"name":"kingspec-glass-showroom","private":true,"version":"2.1.3","description":"KingSpec Storage Architecture V2.1.3 interactive showroom","scripts":{"build":"node build.cjs","start":"node ../preview-server.cjs --open"},"dependencies":{"three":"0.180.0"},"devDependencies":{"esbuild":"0.25.10"}}

@@ -1,0 +1,45 @@
+{
+  "source": "models/tex/hdr-light-studio_01.exr",
+  "sourceSize": [
+    3000,
+    1500
+  ],
+  "sourceSHA256": "8c64de2f2ee4654d29f52737af3679a75c26ad9e8837c6ddf8679883f11b7736",
+  "sourceStatistics": {
+    "minimumRGB": 0.0018509305082261562,
+    "maximumRGB": 7.974489688873291,
+    "meanLuminance": 0.4917559027671814,
+    "maximumLuminance": 7.974489688873291,
+    "pixelsAboveOne": 761748,
+    "finite": true
+  },
+  "destination": "source/assets/environments/studio-neutral-1k.hdr",
+  "size": [
+    1024,
+    512
+  ],
+  "format": "Radiance RGBE",
+  "colorSpace": "Linear Rec.709 / Linear-sRGB",
+  "viewTransformBaked": false,
+  "exposureBaked": false,
+  "resizedLinearStatistics": {
+    "minimumRGB": 0.0018519810400903225,
+    "maximumRGB": 7.919200897216797,
+    "meanLuminance": 0.49176064133644104,
+    "maximumLuminance": 7.919200897216797,
+    "pixelsAboveOne": 88666,
+    "finite": true
+  },
+  "decodedStatistics": {
+    "minimumRGB": 0.0018463134765625,
+    "maximumRGB": 7.90625,
+    "meanLuminance": 0.4903765618801117,
+    "maximumLuminance": 7.90625,
+    "pixelsAboveOne": 88532,
+    "finite": true
+  },
+  "maximumRGBEQuantizationErrorRelativeToPixelPeak": 0.007742196321487427,
+  "bytes": 1167228,
+  "SHA256": "506e52070f0d5dad75e7ca008538e4583125d12a0a8a2577f897d829a7214b5a",
+  "blenderVersion": "5.2.1 LTS"
+}

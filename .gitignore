@@ -1,0 +1,74 @@
+# Dependencies: install separately on Windows and macOS.
+node_modules/
+
+# Generated GitHub Pages upload artifact.
+/_site/
+
+# Operating system metadata.
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Logs, temporary files and caches.
+*.log
+temp/
+tmp/
+.cache/
+.npm/
+.pnpm-store/
+.yarn/cache/
+.parcel-cache/
+.vite/
+.sass-cache/
+.eslintcache
+.stylelintcache
+coverage/
+.nyc_output/
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+*~
+
+# Environment files and local credentials. Do not force-add these.
+.env
+.env.*
+.npmrc
+.netrc
+.pypirc
+.git-credentials
+.ssh/
+.aws/
+.azure/
+.config/gcloud/
+credentials.json
+credentials.local.json
+secrets.json
+secrets.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+id_ecdsa
+id_dsa
+cookies.txt
+cookies.json
+storage-state.json
+storageState.json
+auth-state.json
+.auth/
+playwright/.auth/
+
+# Local Blender autosaves and dated model backups; originals remain on disk.
+*.blend[0-9]*
+/models/备份/
+
+# Intentionally keep index.html: this project delivers a self-contained build.
+# Also keep source/assets/, source/*.json, models/kingspec-showroom.glb,
+# primary .blend projects, models/tex/, screenshots and review deliverables.
+# No blanket dist/, build/, GLB, image, JSON, EXR or .blend exclusion.

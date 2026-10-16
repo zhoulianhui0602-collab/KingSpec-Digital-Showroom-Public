@@ -1,0 +1,2721 @@
+[
+  {
+    "id": "xg7000",
+    "name": "KingSpec 金胜维 XG7000 2280 PCIe 4.0 SSD",
+    "short": "XG7000 2280 PCIe 4.0 SSD",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "内置 SSD",
+    "catEn": "INTERNAL SSD",
+    "zone": "ssd",
+    "model": "XG7000 2280 PCIe 4.0 SSD",
+    "interface": "M.2 2280 · PCIe 4.0 ×4 / NVMe 1.4",
+    "capacity": "512GB / 1TB / 2TB / 4TB / 8TB",
+    "performance": {
+      "read": "最高 7,400 MB/s",
+      "write": "最高 6,600 MB/s",
+      "frequency": null
+    },
+    "lead": "用于系统、游戏与创作工作盘的 M.2 NVMe 固态硬盘。",
+    "scenes": [
+      "电竞装机",
+      "影视创作",
+      "办公升级"
+    ],
+    "application": "电竞装机 / 影视创作 / 办公升级",
+    "traits": [
+      "NVMe",
+      "PCIe 4.0"
+    ],
+    "chips": [
+      "NVMe",
+      "PCIe 4.0",
+      "最高 7,400 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "XG7000-XXX 2280"
+      ],
+      [
+        "尺寸",
+        "80 × 22 × 2.1 mm"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xg7000-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "sourceUrl": "https://www.kingspec.com/product/m2-nvme-pcie-gen4-ssd-xg7000-2280mm.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文参数表的读写行与详情宣传存在差异；读写采用英文规格表，与中文详情的 7400/6600 MB/s 一致。不推断单容量性能。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/m2-nvme-pcie-gen4-ssd-xg7000-2280mm.html",
+    "link": "https://www.kingspec.com/product/m2-nvme-pcie-gen4-ssd-xg7000-2280mm.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-nvme-pcie-gen4-ssd-xg7000-2280mm.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/m2-nvme-pcie-gen4-ssd-xg7000-2280mm.html",
+    "specs": [
+      [
+        "接口",
+        "M.2 2280 · PCIe 4.0 ×4 / NVMe 1.4"
+      ],
+      [
+        "容量范围",
+        "512GB / 1TB / 2TB / 4TB / 8TB"
+      ],
+      [
+        "顺序读取",
+        "最高 7,400 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 6,600 MB/s"
+      ]
+    ],
+    "image": "assets/xg7000-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a316090ecbd.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "KingSpec 金胜维 P3 2.5 英寸 SATA SSD",
+    "short": "P3 2.5 英寸 SATA SSD",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "内置 SSD",
+    "catEn": "INTERNAL SSD",
+    "zone": "ssd",
+    "model": "P3 2.5 英寸 SATA SSD",
+    "interface": "2.5 英寸 SATA III · 6 Gb/s",
+    "capacity": "64GB / 128GB / 256GB / 512GB / 1TB / 2TB / 4TB / 8TB",
+    "performance": {
+      "read": "最高 560 MB/s",
+      "write": "最高 530 MB/s",
+      "frequency": null
+    },
+    "lead": "适合具备 2.5 英寸 SATA 硬盘位的电脑扩容与日常升级。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "SATA",
+      "2.5 英寸"
+    ],
+    "chips": [
+      "SATA",
+      "2.5 英寸",
+      "最高 560 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "P3-XXX"
+      ],
+      [
+        "尺寸",
+        "100.4 × 70 × 7 mm"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4p3-2-5-sata-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98-%e5%89%af%e6%9c%ac/",
+    "sourceUrl": "https://www.kingspec.com/product/25-inch-sata-ssd-p3-series.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 英文规格表包含 64GB～8TB；页面购买选项未覆盖全部容量，请咨询供货情况。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/25-inch-sata-ssd-p3-series.html",
+    "link": "https://www.kingspec.com/product/25-inch-sata-ssd-p3-series.html",
+    "officialUrl": "https://www.kingspec.com/product/25-inch-sata-ssd-p3-series.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/25-inch-sata-ssd-p3-series.html",
+    "specs": [
+      [
+        "接口",
+        "2.5 英寸 SATA III · 6 Gb/s"
+      ],
+      [
+        "容量范围",
+        "64GB / 128GB / 256GB / 512GB / 1TB / 2TB / 4TB / 8TB"
+      ],
+      [
+        "顺序读取",
+        "最高 560 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 530 MB/s"
+      ]
+    ],
+    "image": "assets/p3-official.jpg",
+    "variants": [
+      {
+        "capacity": "64GB",
+        "read": "最高 450 MB/s",
+        "write": "最高 300 MB/s",
+        "tbw": "30 TB"
+      },
+      {
+        "capacity": "128GB",
+        "read": "最高 500 MB/s",
+        "write": "最高 500 MB/s",
+        "tbw": "60 TB"
+      },
+      {
+        "capacity": "256GB",
+        "read": "最高 550 MB/s",
+        "write": "最高 520 MB/s",
+        "tbw": "120 TB"
+      },
+      {
+        "capacity": "512GB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "240 TB"
+      },
+      {
+        "capacity": "1TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "480 TB"
+      },
+      {
+        "capacity": "2TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "960 TB"
+      },
+      {
+        "capacity": "4TB",
+        "read": "最高 520 MB/s",
+        "write": "最高 500 MB/s",
+        "tbw": "1920 TB"
+      },
+      {
+        "capacity": "8TB",
+        "read": "最高 550 MB/s",
+        "write": "最高 510 MB/s",
+        "tbw": "3840 TB"
+      }
+    ],
+    "imageSource": "https://www.kingspec.com/uploads/image/65572166b4657.jpg"
+  },
+  {
+    "id": "xf2280",
+    "name": "KingSpec 金胜维 XF 2280 PCIe 4.0 SSD",
+    "short": "XF 2280 PCIe 4.0 SSD",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "内置 SSD",
+    "catEn": "INTERNAL SSD",
+    "zone": "ssd",
+    "model": "XF 2280 PCIe 4.0 SSD",
+    "interface": "M.2 2280 · PCIe 4.0 ×4 / NVMe 1.4",
+    "capacity": "512GB / 1TB / 2TB / 4TB",
+    "performance": {
+      "read": "最高 5,100 MB/s",
+      "write": "最高 4,600 MB/s",
+      "frequency": null
+    },
+    "lead": "面向日常办公与娱乐扩容，采用超薄石墨烯散热层。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "NVMe",
+      "PCIe 4.0"
+    ],
+    "chips": [
+      "NVMe",
+      "PCIe 4.0",
+      "最高 5,100 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "XF-2280"
+      ],
+      [
+        "尺寸",
+        "80 × 22 × 2.1 mm"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "sourceUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "写入速度按中文详情宣传的最高 4600 MB/s 展示（2026-09-29 经品牌方确认）；参数表仍为 4500 MB/s。容量与 TBW 对应关系未确认，暂不展示 TBW。",
+    "verificationStatus": "editor-confirmed",
+    "url": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "link": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "officialUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "officialLabel": "查看中文官网产品页",
+    "source": "规格采用 https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4xf-2280-pcie-gen4x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "specs": [
+      [
+        "接口",
+        "M.2 2280 · PCIe 4.0 ×4 / NVMe 1.4"
+      ],
+      [
+        "容量范围",
+        "512GB / 1TB / 2TB / 4TB"
+      ],
+      [
+        "顺序读取",
+        "最高 5,100 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 4,600 MB/s"
+      ]
+    ],
+    "image": "assets/xf2280-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a316715adaf.jpg"
+  },
+  {
+    "id": "x500",
+    "name": "ONEBOOM 猛犸纪 X500 2280 PCIe 5.0 SSD",
+    "short": "X500 2280 PCIe 5.0 SSD",
+    "brand": "ONEBOOM",
+    "brandName": "猛犸纪",
+    "category": "内置 SSD",
+    "catEn": "INTERNAL SSD",
+    "zone": "ssd",
+    "model": "X500 2280 PCIe 5.0 SSD",
+    "interface": "M.2 2280 · PCIe 5.0 ×4 / NVMe 2.0",
+    "capacity": "1TB / 2TB / 4TB",
+    "performance": {
+      "read": "最高 14,000 MB/s",
+      "write": "最高 13,000 MB/s",
+      "frequency": null
+    },
+    "lead": "ONEBOOM 电竞固态硬盘，适合具备相应接口的平台与高负载创作。",
+    "scenes": [
+      "电竞装机",
+      "影视创作"
+    ],
+    "application": "电竞装机 / 影视创作",
+    "traits": [
+      "NVMe",
+      "PCIe 5.0"
+    ],
+    "chips": [
+      "NVMe",
+      "PCIe 5.0",
+      "最高 14,000 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "X500-XXX 2280"
+      ],
+      [
+        "尺寸",
+        "80 × 22 × 2.1 mm"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e7%8c%9b%e7%8a%b8%e7%ba%aax500-2280-pcie-gen5x4-%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "sourceUrl": "https://www.kingspec.com/product/pcie-50-x500-series.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文规格表出现 VP14000 型号及重复容量列；型号与读写采用英文 X500 对应产品页。最高值不代表所有容量或平台表现。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/pcie-50-x500-series.html",
+    "link": "https://www.kingspec.com/product/pcie-50-x500-series.html",
+    "officialUrl": "https://www.kingspec.com/product/pcie-50-x500-series.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/pcie-50-x500-series.html",
+    "specs": [
+      [
+        "接口",
+        "M.2 2280 · PCIe 5.0 ×4 / NVMe 2.0"
+      ],
+      [
+        "容量范围",
+        "1TB / 2TB / 4TB"
+      ],
+      [
+        "顺序读取",
+        "最高 14,000 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 13,000 MB/s"
+      ]
+    ],
+    "image": "assets/x500-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/68f5f7a8bd79f.jpg"
+  },
+  {
+    "id": "ram",
+    "name": "KingSpec 金胜维 DDR4 RGB Silver X",
+    "short": "DDR4 RGB Silver X",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "内存",
+    "catEn": "MEMORY",
+    "zone": "ram",
+    "model": "DDR4 RGB Silver X",
+    "interface": "DDR4 · 288-pin DIMM",
+    "capacity": "8GB / 16GB / 32GB",
+    "performance": {
+      "read": null,
+      "write": null,
+      "frequency": "3200 / 3600 / 4000 MT/s"
+    },
+    "lead": "面向 DDR4 台式机平台的银色散热内存，保留产品本身的 RGB 特性。",
+    "scenes": [
+      "电竞装机",
+      "办公升级"
+    ],
+    "application": "电竞装机 / 办公升级",
+    "traits": [
+      "DDR4",
+      "DIMM"
+    ],
+    "chips": [
+      "DDR4",
+      "DIMM",
+      "3200 / 3600 / 4000 MT/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "DDR4 RGB Silver X"
+      ],
+      [
+        "尺寸",
+        "137.4 × 47.6 × 7.5 mm"
+      ],
+      [
+        "电压",
+        "1.2 / 1.35 V"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%91%e8%83%9c%e7%bb%b4ddr4-rgb%e9%93%b6%e6%98%9f%e9%93%a0%e7%94%b2-%e5%8f%b0%e5%bc%8f%e7%94%b5%e8%84%91%e5%86%85%e5%ad%98/",
+    "sourceUrl": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--rgb-silver-x-pc.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 容量和速率按系列列出，具体套装、单条及平台支持需核对订货型号。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--rgb-silver-x-pc.html",
+    "link": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--rgb-silver-x-pc.html",
+    "officialUrl": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--rgb-silver-x-pc.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr4--rgb-silver-x-pc.html",
+    "specs": [
+      [
+        "接口",
+        "DDR4 · 288-pin DIMM"
+      ],
+      [
+        "容量范围",
+        "8GB / 16GB / 32GB"
+      ],
+      [
+        "数据速率",
+        "3200 / 3600 / 4000 MT/s"
+      ]
+    ],
+    "image": "assets/ram-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a3188538f37.jpg"
+  },
+  {
+    "id": "templar",
+    "name": "ONEBOOM 猛犸纪 DDR5 RGB TEMPLAR 圣殿骑士",
+    "short": "DDR5 RGB TEMPLAR 圣殿骑士",
+    "brand": "ONEBOOM",
+    "brandName": "猛犸纪",
+    "category": "内存",
+    "catEn": "MEMORY",
+    "zone": "ram",
+    "model": "DDR5 RGB TEMPLAR 圣殿骑士",
+    "interface": "DDR5 · 288-pin DIMM",
+    "capacity": "16GB / 32GB",
+    "performance": {
+      "read": null,
+      "write": null,
+      "frequency": "4800～8000 MT/s"
+    },
+    "lead": "ONEBOOM DDR5 台式机内存，面向电竞与创作平台。",
+    "scenes": [
+      "电竞装机",
+      "影视创作"
+    ],
+    "application": "电竞装机 / 影视创作",
+    "traits": [
+      "DDR5",
+      "DIMM"
+    ],
+    "chips": [
+      "DDR5",
+      "DIMM",
+      "4800～8000 MT/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "DDR5 RGB TEMPLAR"
+      ],
+      [
+        "尺寸",
+        "133.8 × 45.8 × 7.8 mm"
+      ],
+      [
+        "电压",
+        "1.1～1.5 V"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e7%8c%9b%e7%8a%b8%e7%ba%aa-ddr5-rgb%e5%9c%a3%e6%ae%bf%e9%aa%91%e5%a3%ab-%e5%8f%b0%e5%bc%8f%e7%94%b5%e8%84%91%e5%86%85%e5%ad%98/",
+    "sourceUrl": "https://www.kingspec.com/product/ddr5-rgb-templar.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 数据速率为系列范围；实际频率与容量组合、主板支持和设置有关，不代表全部配置均可达 8000 MT/s。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/ddr5-rgb-templar.html",
+    "link": "https://www.kingspec.com/product/ddr5-rgb-templar.html",
+    "officialUrl": "https://www.kingspec.com/product/ddr5-rgb-templar.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/ddr5-rgb-templar.html",
+    "specs": [
+      [
+        "接口",
+        "DDR5 · 288-pin DIMM"
+      ],
+      [
+        "容量范围",
+        "16GB / 32GB"
+      ],
+      [
+        "数据速率",
+        "4800～8000 MT/s"
+      ]
+    ],
+    "image": "assets/templar-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a318ce43575.jpg"
+  },
+  {
+    "id": "zs301",
+    "name": "MemoStone 意石 ZS301 便携式 SSD",
+    "short": "ZS301 便携式 SSD",
+    "brand": "MemoStone",
+    "brandName": "意石",
+    "category": "移动存储",
+    "catEn": "PORTABLE SSD",
+    "zone": "portable",
+    "model": "ZS301 便携式 SSD",
+    "interface": "USB 3.2 Gen2×2；接口版本见说明",
+    "capacity": "256GB / 512GB / 1TB / 2TB",
+    "performance": {
+      "read": "最高 2,000 MB/s",
+      "write": "最高 1,800 MB/s",
+      "frequency": null
+    },
+    "lead": "电池造型的便携存储，适合随行转存、移动办公和文件携带。",
+    "scenes": [
+      "移动备份",
+      "影视创作"
+    ],
+    "application": "移动备份 / 影视创作",
+    "traits": [
+      "USB",
+      "便携 SSD"
+    ],
+    "chips": [
+      "USB",
+      "便携 SSD",
+      "最高 2,000 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "ZS301-XXX"
+      ],
+      [
+        "尺寸",
+        "高 65.47 mm × 直径 22.89 mm"
+      ],
+      [
+        "接口说明",
+        "规格表写 Type-A & C；图文强调 Type-C，购买前核对版本"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e6%84%8f%e7%9f%b3zs301-%e7%a7%bb%e5%8a%a8%e5%9b%ba%e6%80%81%e7%a1%ac%e7%9b%98/",
+    "sourceUrl": "https://www.kingspec.com/product/zs301-pssd.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 英文规格表读取为最高 2000 MB/s，宣传为 1900 MB/s；本页采用规格表，USB 协议按同页说明。接口形态存在表述差异，请核对版本。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/zs301-pssd.html",
+    "link": "https://www.kingspec.com/product/zs301-pssd.html",
+    "officialUrl": "https://www.kingspec.com/product/zs301-pssd.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/zs301-pssd.html",
+    "specs": [
+      [
+        "接口",
+        "USB 3.2 Gen2×2；接口版本见说明"
+      ],
+      [
+        "容量范围",
+        "256GB / 512GB / 1TB / 2TB"
+      ],
+      [
+        "顺序读取",
+        "最高 2,000 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 1,800 MB/s"
+      ]
+    ],
+    "image": "assets/zs301-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6960a3a9ac2a5.jpg"
+  },
+  {
+    "id": "micro",
+    "name": "MIXAGE 采云纪 microSDXC UHS-I V30",
+    "short": "microSDXC UHS-I V30",
+    "brand": "MIXAGE",
+    "brandName": "采云纪",
+    "category": "存储卡",
+    "catEn": "CREATOR MEDIA",
+    "zone": "card",
+    "model": "microSDXC UHS-I V30",
+    "interface": "microSD · UHS-I",
+    "capacity": "32GB / 64GB / 128GB / 256GB / 512GB",
+    "performance": {
+      "read": "最高 175 MB/s",
+      "write": "最高 110 MB/s",
+      "frequency": null
+    },
+    "lead": "用于支持对应卡型与记录模式的影像设备；选购前核对设备兼容列表。",
+    "scenes": [
+      "影视创作"
+    ],
+    "application": "影视创作",
+    "traits": [
+      "microSD",
+      "TF",
+      "V30"
+    ],
+    "chips": [
+      "microSD",
+      "TF",
+      "V30",
+      "最高 175 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "MTAXXXXX"
+      ],
+      [
+        "速度等级",
+        "U3 / V30"
+      ],
+      [
+        "尺寸",
+        "15 × 11 × 1 mm"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%87%e4%ba%91%e7%ba%aa-micro-sdtf-uhs-%e2%85%b0%e5%ad%98%e5%82%a8%e5%8d%a1/",
+    "sourceUrl": "https://www.kingspec.com/product/microsdxc-uhs-i-v30.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 速度为系列最高标称值，不能替代相机对具体记录模式的兼容要求。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/microsdxc-uhs-i-v30.html",
+    "link": "https://www.kingspec.com/product/microsdxc-uhs-i-v30.html",
+    "officialUrl": "https://www.kingspec.com/product/microsdxc-uhs-i-v30.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/microsdxc-uhs-i-v30.html",
+    "specs": [
+      [
+        "接口",
+        "microSD · UHS-I"
+      ],
+      [
+        "容量范围",
+        "32GB / 64GB / 128GB / 256GB / 512GB"
+      ],
+      [
+        "顺序读取",
+        "最高 175 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 110 MB/s"
+      ]
+    ],
+    "image": "assets/micro-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/68070fa435ced.jpg"
+  },
+  {
+    "id": "sdv90",
+    "name": "MIXAGE 采云纪 SDXC UHS-II U3 V90",
+    "short": "SDXC UHS-II U3 V90",
+    "brand": "MIXAGE",
+    "brandName": "采云纪",
+    "category": "存储卡",
+    "catEn": "CREATOR MEDIA",
+    "zone": "card",
+    "model": "SDXC UHS-II U3 V90",
+    "interface": "标准 SD · UHS-II",
+    "capacity": "64GB / 128GB / 256GB / 512GB",
+    "performance": {
+      "read": "最高 280 MB/s",
+      "write": "最高 269 MB/s",
+      "frequency": null
+    },
+    "lead": "面向支持 UHS-II 的专业拍摄流程；按设备与记录模式选择存储卡。",
+    "scenes": [
+      "影视创作"
+    ],
+    "application": "影视创作",
+    "traits": [
+      "SD",
+      "UHS-II",
+      "V90"
+    ],
+    "chips": [
+      "SD",
+      "UHS-II",
+      "V90",
+      "最高 280 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "MS20XXXX"
+      ],
+      [
+        "速度等级",
+        "U3 / V90"
+      ],
+      [
+        "尺寸",
+        "32 × 24 × 2.1 mm"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%87%e4%ba%91%e7%ba%aa-sd-uhs-%e2%85%b0uhs-%e2%85%b1%e5%ad%98%e5%82%a8%e5%8d%a1/",
+    "sourceUrl": "https://www.kingspec.com/product/sdxc-uhs-ii-u3-v90.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页合并 UHS-I / UHS-II 且规格存在模板错配；本条目明确对应英文 SDXC UHS-II U3 V90，使用其图片和规格，不混用其他 SD 系列。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/sdxc-uhs-ii-u3-v90.html",
+    "link": "https://www.kingspec.com/product/sdxc-uhs-ii-u3-v90.html",
+    "officialUrl": "https://www.kingspec.com/product/sdxc-uhs-ii-u3-v90.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/sdxc-uhs-ii-u3-v90.html",
+    "specs": [
+      [
+        "接口",
+        "标准 SD · UHS-II"
+      ],
+      [
+        "容量范围",
+        "64GB / 128GB / 256GB / 512GB"
+      ],
+      [
+        "顺序读取",
+        "最高 280 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 269 MB/s"
+      ]
+    ],
+    "image": "assets/sdv90-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6806169592fea.jpg"
+  },
+  {
+    "id": "cfb",
+    "name": "MIXAGE 采云纪 CFexpress Type B",
+    "short": "CFexpress Type B",
+    "brand": "MIXAGE",
+    "brandName": "采云纪",
+    "category": "存储卡",
+    "catEn": "CREATOR MEDIA",
+    "zone": "card",
+    "model": "CFexpress Type B",
+    "interface": "CFexpress Type B · PCIe 3.0 ×2 / NVMe 1.3",
+    "capacity": "128GB / 256GB / 512GB / 1TB / 2TB / 4TB",
+    "performance": {
+      "read": "最高 1,900 MB/s",
+      "write": "最高 1,750 MB/s",
+      "frequency": null
+    },
+    "lead": "面向采用 CFexpress Type B 的专业影像设备，适配情况需按机型核对。",
+    "scenes": [
+      "影视创作"
+    ],
+    "application": "影视创作",
+    "traits": [
+      "CFexpress",
+      "Type B"
+    ],
+    "chips": [
+      "CFexpress",
+      "Type B",
+      "最高 1,900 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "CFB-XXX"
+      ],
+      [
+        "尺寸",
+        "38.5 × 29.6 × 3.8 mm"
+      ]
+    ],
+    "cnUrl": "https://www.kingspec.cn/product/%e9%87%87%e4%ba%91%e7%ba%aa-cfexpress-type-b-pcie-gen3x2%e5%ad%98%e5%82%a8%e5%8d%a1/",
+    "sourceUrl": "https://www.kingspec.com/product/m2-nvme-pcie-gen3-cfexpress-type-b-memory-card-cfb.html",
+    "verifiedAt": "2026-09-29",
+    "parameterScope": "官网系列标称值；具体容量与设备条件影响性能",
+    "sourceNote": "中文页存在其他型号的模板内容，本页规格采用英文官网对应产品页。 英文规格表读取上限 1900 MB/s，宣传为 1850 MB/s；本页采用规格表。不将顺序峰值视为持续写入保证。 官网产品图另标 1850/1700 MB/s，图示属于特定外观版本，未将其作为全系列参数。",
+    "verificationStatus": "cross-checked",
+    "url": "https://www.kingspec.com/product/m2-nvme-pcie-gen3-cfexpress-type-b-memory-card-cfb.html",
+    "link": "https://www.kingspec.com/product/m2-nvme-pcie-gen3-cfexpress-type-b-memory-card-cfb.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-nvme-pcie-gen3-cfexpress-type-b-memory-card-cfb.html",
+    "officialLabel": "查看英文官网产品页",
+    "source": "规格采用 https://www.kingspec.com/product/m2-nvme-pcie-gen3-cfexpress-type-b-memory-card-cfb.html",
+    "specs": [
+      [
+        "接口",
+        "CFexpress Type B · PCIe 3.0 ×2 / NVMe 1.3"
+      ],
+      [
+        "容量范围",
+        "128GB / 256GB / 512GB / 1TB / 2TB / 4TB"
+      ],
+      [
+        "顺序读取",
+        "最高 1,900 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 1,750 MB/s"
+      ]
+    ],
+    "image": "assets/cfb-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a34ade8853d.jpg"
+  },
+  {
+    "id": "nt2242",
+    "name": "KingSpec 金胜维 NT 2242 M.2 SATA SSD",
+    "short": "NT 2242 M.2 SATA SSD",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "NT 2242 M.2 SATA SSD",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "ssd",
+    "catalogGroup": "ssd",
+    "family": "m2sata",
+    "model": "NT-XXX",
+    "interface": "M.2 2242 · SATA III 6 Gb/s",
+    "capacity": "128GB / 256GB / 512GB / 1TB / 2TB",
+    "performance": {
+      "read": "最高 570 MB/s",
+      "write": "最高 520 MB/s",
+      "frequency": null
+    },
+    "lead": "NT 2242 M.2 SATA SSD，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "M.2 2242 · SATA III 6 Gb/s"
+    ],
+    "chips": [
+      "M.2 2242 · SATA III 6 Gb/s",
+      "最高 500 MB/s / 最高 550 MB/s / 最高 540 MB/s / 最高 560 MB/s / 最高 570 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "NT-XXX"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ],
+      [
+        "输入电压",
+        "DC 5V"
+      ],
+      [
+        "尺寸",
+        "L42.0mm*W22.0mm*H3.5mm±0.15mm"
+      ],
+      [
+        "工作温度",
+        "0℃~+70℃"
+      ],
+      [
+        "存储温度",
+        "-20℃~+75℃"
+      ],
+      [
+        "保修",
+        "3 Years"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "cnUrl": "https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "url": "https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "link": "https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/m2-ngff-sata-ssd-nt-2242mm.html",
+    "image": "assets/products/nt2242-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a3174eab606.jpg",
+    "variants": [
+      {
+        "capacity": "128GB",
+        "read": "最高 500 MB/s",
+        "write": "最高 450 MB/s",
+        "tbw": "60TB"
+      },
+      {
+        "capacity": "256GB",
+        "read": "最高 550 MB/s",
+        "write": "最高 500 MB/s",
+        "tbw": "120TB"
+      },
+      {
+        "capacity": "512GB",
+        "read": "最高 540 MB/s",
+        "write": "最高 480 MB/s",
+        "tbw": "240TB"
+      },
+      {
+        "capacity": "1TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 520 MB/s",
+        "tbw": "480TB"
+      },
+      {
+        "capacity": "2TB",
+        "read": "最高 570 MB/s",
+        "write": "最高 520 MB/s",
+        "tbw": "960TB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "M.2 2242 · SATA III 6 Gb/s"
+      ],
+      [
+        "容量范围",
+        "128GB / 256GB / 512GB / 1TB / 2TB"
+      ],
+      [
+        "顺序读取",
+        "最高 570 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 520 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "mt",
+    "name": "KingSpec 金胜维 MT mSATA SSD",
+    "short": "MT mSATA SSD",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "MT mSATA SSD",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "ssd",
+    "catalogGroup": "ssd",
+    "family": "msata",
+    "model": "MT-XXX",
+    "interface": "mSATA · SATA III 6 Gb/s",
+    "capacity": "64GB / 128GB / 256GB / 512GB / 1TB / 2TB / 4TB",
+    "performance": {
+      "read": "最高 560 MB/s",
+      "write": "最高 530 MB/s",
+      "frequency": null
+    },
+    "lead": "MT mSATA SSD，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "mSATA · SATA III 6 Gb/s"
+    ],
+    "chips": [
+      "mSATA · SATA III 6 Gb/s",
+      "最高 350 MB/s / 最高 500 MB/s / 最高 550 MB/s / 最高 560 MB/s / 最高 560 MB/s / 最高 560 MB/s / 最高 560 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "MT-XXX"
+      ],
+      [
+        "NAND",
+        "3D NAND"
+      ],
+      [
+        "输入电压",
+        "DC 5V"
+      ],
+      [
+        "尺寸",
+        "L50.95mm * W30.0mm * H3.5mm ±0.15mm"
+      ],
+      [
+        "工作温度",
+        "0℃~+70℃"
+      ],
+      [
+        "存储温度",
+        "-20℃~+75℃"
+      ],
+      [
+        "保修",
+        "3 Years"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "officialUrl": "https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "cnUrl": "https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "url": "https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "link": "https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/msata-ssd-im-series.html",
+    "image": "assets/products/mt-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/656d9fe56f350.jpg",
+    "variants": [
+      {
+        "capacity": "64GB",
+        "read": "最高 350 MB/s",
+        "write": "最高 200 MB/s",
+        "tbw": "30TB"
+      },
+      {
+        "capacity": "128GB",
+        "read": "最高 500 MB/s",
+        "write": "最高 450 MB/s",
+        "tbw": "60TB"
+      },
+      {
+        "capacity": "256GB",
+        "read": "最高 550 MB/s",
+        "write": "最高 500 MB/s",
+        "tbw": "120TB"
+      },
+      {
+        "capacity": "512GB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "240TB"
+      },
+      {
+        "capacity": "1TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "480TB"
+      },
+      {
+        "capacity": "2TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "960TB"
+      },
+      {
+        "capacity": "4TB",
+        "read": "最高 560 MB/s",
+        "write": "最高 530 MB/s",
+        "tbw": "1920TB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "mSATA · SATA III 6 Gb/s"
+      ],
+      [
+        "容量范围",
+        "64GB / 128GB / 256GB / 512GB / 1TB / 2TB / 4TB"
+      ],
+      [
+        "顺序读取",
+        "最高 560 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 530 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ddr3pc",
+    "name": "KingSpec 金胜维 DDR3 PC 桌面内存",
+    "short": "DDR3 PC 桌面内存",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "DDR3 PC 桌面内存",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "ram",
+    "catalogGroup": "ram",
+    "family": "ddr3",
+    "model": "DDR3 PC",
+    "interface": "240-pin DIMM · DDR3",
+    "capacity": "4GB/8GB",
+    "performance": {
+      "read": null,
+      "write": null,
+      "frequency": "1333/1600/1866MT/s"
+    },
+    "lead": "DDR3 PC 桌面内存，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "240-pin DIMM · DDR3"
+    ],
+    "chips": [
+      "240-pin DIMM · DDR3"
+    ],
+    "full": [
+      [
+        "型号",
+        "DDR3 PC"
+      ],
+      [
+        "输入电压",
+        "1.5V"
+      ],
+      [
+        "时序",
+        "11-11-11"
+      ],
+      [
+        "尺寸",
+        "L133.0mm*W30.0mm*H4.0mm"
+      ],
+      [
+        "保修",
+        "3 Years"
+      ],
+      [
+        "存储温度",
+        "-20℃ ~ +100℃"
+      ],
+      [
+        "工作温度",
+        "0℃ ~ +85℃"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "officialUrl": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "cnUrl": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "url": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "link": "https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/desktop-udimm-memory-ram-ddr3-pc.html",
+    "image": "assets/products/ddr3pc-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a317ae3d716.jpg",
+    "variants": [
+      {
+        "capacity": "4GB"
+      },
+      {
+        "capacity": "8GB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "240-pin DIMM · DDR3"
+      ],
+      [
+        "容量范围",
+        "4GB/8GB"
+      ]
+    ]
+  },
+  {
+    "id": "us5",
+    "name": "MemoStone 意石 US5 USB SSD",
+    "short": "US5 USB SSD",
+    "brand": "MemoStone",
+    "brandName": "意石",
+    "category": "US5 USB SSD",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "portable",
+    "catalogGroup": "portable",
+    "family": "usbssd",
+    "model": "US5-XXX",
+    "interface": "Type-C",
+    "capacity": "256GB/512GB/1TB/2TB",
+    "performance": {
+      "read": "1650～2050 MB/s",
+      "write": "1500～1850 MB/s",
+      "frequency": null
+    },
+    "lead": "US5 USB SSD，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "移动办公"
+    ],
+    "application": "移动办公",
+    "traits": [
+      "Type-C"
+    ],
+    "chips": [
+      "Type-C",
+      "1650～2050 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "US5-XXX"
+      ],
+      [
+        "NAND",
+        "3D TLC NAND"
+      ],
+      [
+        "输入电压",
+        "DC 5V"
+      ],
+      [
+        "尺寸",
+        "L71.16mm * W38.18mm * H11.00mm"
+      ],
+      [
+        "保修",
+        "3 years"
+      ],
+      [
+        "存储温度",
+        "-20℃to+75℃"
+      ],
+      [
+        "工作温度",
+        "0℃--+70℃"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/us5-ussd.html",
+    "officialUrl": "https://www.kingspec.com/product/us5-ussd.html",
+    "cnUrl": "https://www.kingspec.com/product/us5-ussd.html",
+    "url": "https://www.kingspec.com/product/us5-ussd.html",
+    "link": "https://www.kingspec.com/product/us5-ussd.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/us5-ussd.html",
+    "image": "assets/products/us5-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66bc6c2f3f9b9.jpg",
+    "variants": [
+      {
+        "capacity": "256GB"
+      },
+      {
+        "capacity": "512GB"
+      },
+      {
+        "capacity": "1TB"
+      },
+      {
+        "capacity": "2TB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "Type-C"
+      ],
+      [
+        "容量范围",
+        "256GB/512GB/1TB/2TB"
+      ],
+      [
+        "顺序读取",
+        "1650～2050 MB/s"
+      ],
+      [
+        "顺序写入",
+        "1500～1850 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "usbflash",
+    "name": "KingSpec 金胜维 USB 旋转金属闪存盘",
+    "short": "USB 旋转金属闪存盘",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "USB 旋转金属闪存盘",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "portable",
+    "catalogGroup": "portable",
+    "family": "usb",
+    "model": "USB 旋转金属闪存盘",
+    "interface": "USB 2.0",
+    "capacity": "16GB/32GB,64GB,128GB",
+    "performance": {
+      "read": null,
+      "write": null,
+      "frequency": null
+    },
+    "lead": "USB 旋转金属闪存盘，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "移动办公"
+    ],
+    "application": "移动办公",
+    "traits": [
+      "USB 2.0"
+    ],
+    "chips": [
+      "USB 2.0"
+    ],
+    "full": [
+      [
+        "外壳",
+        "360° rotating metal case"
+      ],
+      [
+        "定制服务",
+        "Laser logo, customizable"
+      ],
+      [
+        "保修",
+        "1 year"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/usb.html",
+    "officialUrl": "https://www.kingspec.com/product/usb.html",
+    "cnUrl": "https://www.kingspec.com/product/usb.html",
+    "url": "https://www.kingspec.com/product/usb.html",
+    "link": "https://www.kingspec.com/product/usb.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/usb.html",
+    "image": "assets/products/usbflash-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/5f893eb889674.jpg",
+    "variants": [
+      {
+        "capacity": "16GB"
+      },
+      {
+        "capacity": "32GB"
+      },
+      {
+        "capacity": "64GB"
+      },
+      {
+        "capacity": "128GB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "USB 2.0"
+      ],
+      [
+        "容量范围",
+        "16GB/32GB,64GB,128GB"
+      ]
+    ]
+  },
+  {
+    "id": "enclosure122",
+    "name": "KingSpec 金胜维 M.2 NVMe 2 in 1 硬盘盒",
+    "short": "M.2 NVMe 2 in 1 硬盘盒",
+    "brand": "KingSpec",
+    "brandName": "金胜维",
+    "category": "M.2 NVMe 2 in 1 硬盘盒",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "portable",
+    "catalogGroup": "portable",
+    "family": "enclosure",
+    "model": "M.2 NVMe 2 in 1 硬盘盒",
+    "interface": "Type-C · M.2 NVMe / NGFF",
+    "capacity": "由所安装 SSD 决定",
+    "performance": {
+      "read": null,
+      "write": null,
+      "frequency": null
+    },
+    "lead": "为 M.2 SSD 提供 Type-C 外置连接的双协议硬盘盒。",
+    "scenes": [
+      "办公升级"
+    ],
+    "application": "办公升级",
+    "traits": [
+      "Type-C · M.2 NVMe / NGFF"
+    ],
+    "chips": [
+      "Type-C · M.2 NVMe / NGFF"
+    ],
+    "full": [
+      [
+        "连接",
+        "Type-C"
+      ],
+      [
+        "兼容形态",
+        "M.2 NVMe / NGFF"
+      ],
+      [
+        "容量说明",
+        "由所安装 SSD 决定"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "cnUrl": "https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "url": "https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "link": "https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "partial-official",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "官网详情为宣传图片，未公开结构化的容量和读写表；本条只收录可确认的 Type-C 与 M.2 NVMe / NGFF 兼容信息。容量由所装 SSD 决定。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/m2-nvme-2-in-1-enclosure-122.html",
+    "image": "assets/products/enclosure122-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/63564b0a9539e.jpg",
+    "specs": [
+      [
+        "接口",
+        "Type-C · M.2 NVMe / NGFF"
+      ],
+      [
+        "容量范围",
+        "由所安装 SSD 决定"
+      ]
+    ]
+  },
+  {
+    "id": "cf65",
+    "name": "MIXAGE 采云纪 CF65 CF 存储卡",
+    "short": "CF65 CF 存储卡",
+    "brand": "MIXAGE",
+    "brandName": "采云纪",
+    "category": "CF65 CF 存储卡",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "card",
+    "catalogGroup": "card",
+    "family": "cf",
+    "model": "CF65-XXX",
+    "interface": "ATA/ATAPI-7 · CF 50-pin",
+    "capacity": "64GB/128GB/256GB",
+    "performance": {
+      "read": "101~120 MB/s",
+      "write": "35~65 MB/s",
+      "frequency": null
+    },
+    "lead": "CF65 CF 存储卡，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "摄影拍摄"
+    ],
+    "application": "摄影拍摄",
+    "traits": [
+      "ATA/ATAPI-7 · CF 50-pin"
+    ],
+    "chips": [
+      "ATA/ATAPI-7 · CF 50-pin",
+      "101~120 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "CF65-XXX"
+      ],
+      [
+        "NAND",
+        "3D MLC NAND"
+      ],
+      [
+        "输入电压",
+        "DC 3.3V"
+      ],
+      [
+        "尺寸",
+        "L42.8mm*W36.4mm*H3.3mm"
+      ],
+      [
+        "保修",
+        "3 Years"
+      ],
+      [
+        "存储温度",
+        "-20℃~+75℃"
+      ],
+      [
+        "工作温度",
+        "0℃~+70℃"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "officialUrl": "https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "cnUrl": "https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "url": "https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "link": "https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网 TBW 为系列列表，未建立容量对应值，详情不做自动配对。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/pata-cf-memory-card-cf65.html",
+    "image": "assets/products/cf65-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a34aafce859.jpg",
+    "variants": [
+      {
+        "capacity": "64GB"
+      },
+      {
+        "capacity": "128GB"
+      },
+      {
+        "capacity": "256GB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "ATA/ATAPI-7 · CF 50-pin"
+      ],
+      [
+        "容量范围",
+        "64GB/128GB/256GB"
+      ],
+      [
+        "顺序读取",
+        "101~120 MB/s"
+      ],
+      [
+        "顺序写入",
+        "35~65 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "cs130",
+    "name": "MIXAGE 采云纪 CS130 CFast 存储卡",
+    "short": "CS130 CFast 存储卡",
+    "brand": "MIXAGE",
+    "brandName": "采云纪",
+    "category": "CS130 CFast 存储卡",
+    "catEn": "CONSUMER STORAGE",
+    "zone": "card",
+    "catalogGroup": "card",
+    "family": "cfast",
+    "model": "CS130-XXX",
+    "interface": "SATA III 6 Gb/s · SATA 24-pin",
+    "capacity": "256GB/512GB/1TB",
+    "performance": {
+      "read": "510~570 MB/s",
+      "write": "230~530 MB/s",
+      "frequency": null
+    },
+    "lead": "CS130 CFast 存储卡，按官网公开规格查看形态、容量与性能范围。",
+    "scenes": [
+      "影视创作"
+    ],
+    "application": "影视创作",
+    "traits": [
+      "SATA III 6 Gb/s · SATA 24-pin"
+    ],
+    "chips": [
+      "SATA III 6 Gb/s · SATA 24-pin",
+      "510~570 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "CS130-XXX"
+      ],
+      [
+        "NAND",
+        "3D TLC NAND"
+      ],
+      [
+        "输入电压",
+        "DC 3.3V"
+      ],
+      [
+        "尺寸",
+        "L42.8mm*W36.4mm*H3.3mm"
+      ],
+      [
+        "保修",
+        "3 Years"
+      ],
+      [
+        "存储温度",
+        "-20℃~+75℃"
+      ],
+      [
+        "工作温度",
+        "0℃~+70℃"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "officialUrl": "https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "cnUrl": "https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "url": "https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "link": "https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网 TBW 为系列列表，未建立容量对应值，详情不做自动配对。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/sata-cfast-memory-card-cs130.html",
+    "image": "assets/products/cs130-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/66a34a84d4d81.jpg",
+    "variants": [
+      {
+        "capacity": "256GB"
+      },
+      {
+        "capacity": "512GB"
+      },
+      {
+        "capacity": "1TB"
+      }
+    ],
+    "specs": [
+      [
+        "接口",
+        "SATA III 6 Gb/s · SATA 24-pin"
+      ],
+      [
+        "容量范围",
+        "256GB/512GB/1TB"
+      ],
+      [
+        "顺序读取",
+        "510~570 MB/s"
+      ],
+      [
+        "顺序写入",
+        "230~530 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "yss600t",
+    "name": "YANSEN 元存 YSS600T 2.5 英寸 SATA SSD",
+    "short": "YSS600T 2.5 英寸 SATA SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSS600T 2.5 英寸 SATA SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-sata25",
+    "model": "YSS600T-X-XXX",
+    "interface": "2.5 英寸 SATA",
+    "capacity": "8GB~256GB",
+    "performance": {
+      "read": "最高 500 MB/s",
+      "write": "最高 250 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSS600T 2.5 英寸 SATA SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "工业设备"
+    ],
+    "application": "工业设备",
+    "traits": [
+      "2.5 英寸 SATA"
+    ],
+    "chips": [
+      "2.5 英寸 SATA",
+      "最高 500 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSS600T-X-XXX"
+      ],
+      [
+        "NAND",
+        "MLC"
+      ],
+      [
+        "4K 随机读取",
+        "21700 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "21900 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 5V±5%"
+      ],
+      [
+        "尺寸",
+        "L100.4mm*W70mm*H7.0mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "officialUrl": "https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "cnUrl": "https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "url": "https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "link": "https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/25-sata-ssd-yss600t.html",
+    "image": "assets/products/yss600t-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/617215fe1c43c.jpg",
+    "specs": [
+      [
+        "接口",
+        "2.5 英寸 SATA"
+      ],
+      [
+        "容量范围",
+        "8GB~256GB"
+      ],
+      [
+        "顺序读取",
+        "最高 500 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 250 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysm600t",
+    "name": "YANSEN 元存 YSM600T mSATA SSD",
+    "short": "YSM600T mSATA SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSM600T mSATA SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-msata",
+    "model": "YSM600T-X-XXX",
+    "interface": "mSATA",
+    "capacity": "8GB~256GB",
+    "performance": {
+      "read": "最高 500 MB/s",
+      "write": "最高 250 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSM600T mSATA SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "嵌入式设备"
+    ],
+    "application": "嵌入式设备",
+    "traits": [
+      "mSATA"
+    ],
+    "chips": [
+      "mSATA",
+      "最高 500 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSM600T-X-XXX"
+      ],
+      [
+        "NAND",
+        "MLC"
+      ],
+      [
+        "4K 随机读取",
+        "21490 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "21750 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 3.3V±5%"
+      ],
+      [
+        "尺寸",
+        "L50.95mm*W30.0mm*H3.5mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "officialUrl": "https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "cnUrl": "https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "url": "https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "link": "https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/msata-ssd-ysm600t.html",
+    "image": "assets/products/ysm600t-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172210ce4dd1.jpg",
+    "specs": [
+      [
+        "接口",
+        "mSATA"
+      ],
+      [
+        "容量范围",
+        "8GB~256GB"
+      ],
+      [
+        "顺序读取",
+        "最高 500 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 250 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysn600t",
+    "name": "YANSEN 元存 YSN600T M.2 SATA SSD",
+    "short": "YSN600T M.2 SATA SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSN600T M.2 SATA SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-m2sata",
+    "model": "YSN600T-X-XXX",
+    "interface": "M.2 SATA 2242",
+    "capacity": "8GB~256GB",
+    "performance": {
+      "read": "最高 500 MB/s",
+      "write": "最高 250 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSN600T M.2 SATA SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "嵌入式设备"
+    ],
+    "application": "嵌入式设备",
+    "traits": [
+      "M.2 SATA 2242"
+    ],
+    "chips": [
+      "M.2 SATA 2242",
+      "最高 500 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSN600T-X-XXX"
+      ],
+      [
+        "NAND",
+        "MLC"
+      ],
+      [
+        "4K 随机读取",
+        "21100 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "21300IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 3.3V±5%"
+      ],
+      [
+        "尺寸",
+        "L42.0mm*W22.0mm*H3.5mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "cnUrl": "https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "url": "https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "link": "https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/m2-sata-ssd-ysn600t.html",
+    "image": "assets/products/ysn600t-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172272e5763d.jpg",
+    "specs": [
+      [
+        "接口",
+        "M.2 SATA 2242"
+      ],
+      [
+        "容量范围",
+        "8GB~256GB"
+      ],
+      [
+        "顺序读取",
+        "最高 500 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 250 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysexpro",
+    "name": "YANSEN 元存 YSEX PRO M.2 PCIe NVMe SSD",
+    "short": "YSEX PRO M.2 PCIe NVMe SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSEX PRO M.2 PCIe NVMe SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-nvme",
+    "model": "YSEX-XXX PRO",
+    "interface": "M.2 PCIe NVMe 2280",
+    "capacity": "256GB~2TB",
+    "performance": {
+      "read": "最高 3600 MB/s",
+      "write": "最高 3400 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSEX PRO M.2 PCIe NVMe SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "工业设备"
+    ],
+    "application": "工业设备",
+    "traits": [
+      "M.2 PCIe NVMe 2280"
+    ],
+    "chips": [
+      "M.2 PCIe NVMe 2280",
+      "最高 3600 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSEX-XXX PRO"
+      ],
+      [
+        "NAND",
+        "TLC"
+      ],
+      [
+        "4K 随机读取",
+        "186200 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "186100 IOPS"
+      ],
+      [
+        "工作温度",
+        "0°C ~ +70°C"
+      ],
+      [
+        "存储温度",
+        "-20°C ~ +75°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 3.3V±5%"
+      ],
+      [
+        "尺寸",
+        "L80.0mm*W22.0mm*H2.1mm ±0.1mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "officialUrl": "https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "cnUrl": "https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "url": "https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "link": "https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/m2-pcie-nvme-ssd-ysex-pro.html",
+    "image": "assets/products/ysexpro-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/61723754c62cf.jpg",
+    "specs": [
+      [
+        "接口",
+        "M.2 PCIe NVMe 2280"
+      ],
+      [
+        "容量范围",
+        "256GB~2TB"
+      ],
+      [
+        "顺序读取",
+        "最高 3600 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 3400 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysp600e",
+    "name": "YANSEN 元存 YSP600E PATA SSD",
+    "short": "YSP600E PATA SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSP600E PATA SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-pata",
+    "model": "YSP600E-X-XXX",
+    "interface": "PATA",
+    "capacity": "8GB~128GB",
+    "performance": {
+      "read": "最高 125 MB/s",
+      "write": "最高 100 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSP600E PATA SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "工业设备"
+    ],
+    "application": "工业设备",
+    "traits": [
+      "PATA"
+    ],
+    "chips": [
+      "PATA",
+      "最高 125 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSP600E-X-XXX"
+      ],
+      [
+        "NAND",
+        "SLC/MLC"
+      ],
+      [
+        "4K 随机读取",
+        "2500 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "500 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 5V±5%"
+      ],
+      [
+        "尺寸",
+        "L100mm*W69.8mm*H9.6mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/pata-ysp600e.html",
+    "officialUrl": "https://www.kingspec.com/product/pata-ysp600e.html",
+    "cnUrl": "https://www.kingspec.com/product/pata-ysp600e.html",
+    "url": "https://www.kingspec.com/product/pata-ysp600e.html",
+    "link": "https://www.kingspec.com/product/pata-ysp600e.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/pata-ysp600e.html",
+    "image": "assets/products/ysp600e-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172532927bdf.jpg",
+    "specs": [
+      [
+        "接口",
+        "PATA"
+      ],
+      [
+        "容量范围",
+        "8GB~128GB"
+      ],
+      [
+        "顺序读取",
+        "最高 125 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 100 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "yssdh",
+    "name": "YANSEN 元存 YSSDH SATA DOM",
+    "short": "YSSDH SATA DOM",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSSDH SATA DOM",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-satadom",
+    "model": "YSSDH-X-XXX",
+    "interface": "SATA DOM",
+    "capacity": "8GB-256GB",
+    "performance": {
+      "read": "最高 300 MB/s",
+      "write": "最高 200 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSSDH SATA DOM 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "嵌入式设备"
+    ],
+    "application": "嵌入式设备",
+    "traits": [
+      "SATA DOM"
+    ],
+    "chips": [
+      "SATA DOM",
+      "最高 300 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSSDH-X-XXX"
+      ],
+      [
+        "NAND",
+        "SLC/MLC"
+      ],
+      [
+        "4K 随机读取",
+        "15000 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "13300 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 5V±5%"
+      ],
+      [
+        "尺寸",
+        "L39.5mm*W25mm*H9.3mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "officialUrl": "https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "cnUrl": "https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "url": "https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "link": "https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/sata-dom-yssdh.html",
+    "image": "assets/products/yssdh-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/61726085463cd.jpg",
+    "specs": [
+      [
+        "接口",
+        "SATA DOM"
+      ],
+      [
+        "容量范围",
+        "8GB-256GB"
+      ],
+      [
+        "顺序读取",
+        "最高 300 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 200 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysudh",
+    "name": "YANSEN 元存 YSUDH USB DOM",
+    "short": "YSUDH USB DOM",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSUDH USB DOM",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-usbdom",
+    "model": "YSUDH-X-XXX",
+    "interface": "USB DOM",
+    "capacity": "8GB~64GB",
+    "performance": {
+      "read": "最高 35 MB/s",
+      "write": "最高 25 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSUDH USB DOM 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "嵌入式设备"
+    ],
+    "application": "嵌入式设备",
+    "traits": [
+      "USB DOM"
+    ],
+    "chips": [
+      "USB DOM",
+      "最高 35 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSUDH-X-XXX / /"
+      ],
+      [
+        "NAND",
+        "SLC/MLC"
+      ],
+      [
+        "4K 随机读取",
+        "1700 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "1100 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 5V±5%"
+      ],
+      [
+        "尺寸",
+        "L36.9mm*W26.6mm*H9.6mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "officialUrl": "https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "cnUrl": "https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "url": "https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "link": "https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/usb-dom-ysudh.html",
+    "image": "assets/products/ysudh-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172636ae7986.jpg",
+    "specs": [
+      [
+        "接口",
+        "USB DOM"
+      ],
+      [
+        "容量范围",
+        "8GB~64GB"
+      ],
+      [
+        "顺序读取",
+        "最高 35 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 25 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "yscs",
+    "name": "YANSEN 元存 YSCS CFast",
+    "short": "YSCS CFast",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSCS CFast",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "industrial",
+    "family": "i-cfast",
+    "model": "YSCS CFast",
+    "interface": "CFast",
+    "capacity": "8GB~512GB",
+    "performance": {
+      "read": "最高 500 MB/s",
+      "write": "最高 300 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSCS CFast 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "工业设备"
+    ],
+    "application": "工业设备",
+    "traits": [
+      "CFast"
+    ],
+    "chips": [
+      "CFast",
+      "最高 500 MB/s"
+    ],
+    "full": [
+      [
+        "4K 随机读取",
+        "18500 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "19100 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 3.3V±5%"
+      ],
+      [
+        "尺寸",
+        "L42.8mm*W36.4mm*H3.3mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/cfast-yscs.html",
+    "officialUrl": "https://www.kingspec.com/product/cfast-yscs.html",
+    "cnUrl": "https://www.kingspec.com/product/cfast-yscs.html",
+    "url": "https://www.kingspec.com/product/cfast-yscs.html",
+    "link": "https://www.kingspec.com/product/cfast-yscs.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。 官网存储温度和 NAND 文本存在疑点，这两项暂未收录，请向官方确认。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/cfast-yscs.html",
+    "image": "assets/products/yscs-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172667519214.jpg",
+    "specs": [
+      [
+        "接口",
+        "CFast"
+      ],
+      [
+        "容量范围",
+        "8GB~512GB"
+      ],
+      [
+        "顺序读取",
+        "最高 500 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 300 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "yshs",
+    "name": "YANSEN 元存 YSHS Half Slim SSD",
+    "short": "YSHS Half Slim SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSHS Half Slim SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "enterprise",
+    "family": "e-halfslim",
+    "model": "YSHS-X-XXX",
+    "interface": "Half Slim",
+    "capacity": "8GB~256GB",
+    "performance": {
+      "read": "最高 550 MB/s",
+      "write": "最高 300 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSHS Half Slim SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "企业应用"
+    ],
+    "application": "企业应用",
+    "traits": [
+      "Half Slim"
+    ],
+    "chips": [
+      "Half Slim",
+      "最高 550 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSHS-X-XXX"
+      ],
+      [
+        "NAND",
+        "MLC"
+      ],
+      [
+        "4K 随机读取",
+        "21700 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "22000 IOPS"
+      ],
+      [
+        "工作温度",
+        "-20°C ~ 70°C, -40°C ~ 85°C"
+      ],
+      [
+        "存储温度",
+        "-55°C ~ +95°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 5V±5%"
+      ],
+      [
+        "尺寸",
+        "L54.0mm*W39.0mm*H4.5mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "officialUrl": "https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "cnUrl": "https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "url": "https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "link": "https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。 官网主规格表与配置表部分温度上限存在 70 / 75°C 差异，展示主规格表；订购前按对应温度等级确认。 配置表的部分型号写作 YSN600T，未将错配型号导入容量性能。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/half-slim-ssd-yshs.html",
+    "image": "assets/products/yshs-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/6172513a7aaa2.jpg",
+    "specs": [
+      [
+        "接口",
+        "Half Slim"
+      ],
+      [
+        "容量范围",
+        "8GB~256GB"
+      ],
+      [
+        "顺序读取",
+        "最高 550 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 300 MB/s"
+      ]
+    ]
+  },
+  {
+    "id": "ysu2",
+    "name": "YANSEN 元存 YSU2 U.2 PCIe SSD",
+    "short": "YSU2 U.2 PCIe SSD",
+    "brand": "YANSEN",
+    "brandName": "元存",
+    "category": "YSU2 U.2 PCIe SSD",
+    "catEn": "INDUSTRIAL & ENTERPRISE STORAGE",
+    "zone": null,
+    "catalogGroup": "enterprise",
+    "family": "e-u2",
+    "model": "YSU2-X-XXX",
+    "interface": "U.2 PCIe",
+    "capacity": "800GB~3.84TB",
+    "performance": {
+      "read": "最高 3000 MB/s",
+      "write": "最高 1700 MB/s",
+      "frequency": null
+    },
+    "lead": "官网 YSU2 U.2 PCIe SSD 代表型号。请按接口、安装尺寸及具体温度等级选型。",
+    "scenes": [
+      "企业应用"
+    ],
+    "application": "企业应用",
+    "traits": [
+      "U.2 PCIe"
+    ],
+    "chips": [
+      "U.2 PCIe",
+      "最高 3000 MB/s"
+    ],
+    "full": [
+      [
+        "型号",
+        "YSU2-X-XXX"
+      ],
+      [
+        "NAND",
+        "TLC"
+      ],
+      [
+        "4K 随机读取",
+        "400000 IOPS"
+      ],
+      [
+        "4K 随机写入",
+        "90000 IOPS"
+      ],
+      [
+        "工作温度",
+        "0°C ~ 70°C"
+      ],
+      [
+        "存储温度",
+        "-20°C ~ +75°C"
+      ],
+      [
+        "湿度",
+        "5%-95% RH non-condensing"
+      ],
+      [
+        "冲击",
+        "1500G/0.5ms"
+      ],
+      [
+        "振动",
+        "80Hz~2000Hz/20G"
+      ],
+      [
+        "工作电压",
+        "DC 12V±7%"
+      ],
+      [
+        "尺寸",
+        "L100.2mm*W69.85mm*H15mm ±0.15mm"
+      ]
+    ],
+    "sourceUrl": "https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "officialUrl": "https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "cnUrl": "https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "url": "https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "link": "https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "officialLabel": "查看官方产品页",
+    "verifiedAt": "2026-10-14",
+    "verificationStatus": "official-page",
+    "parameterScope": "官网系列规格；不推断容量性能对应关系",
+    "sourceNote": "采用英文官网该型号规格表的系列范围；未公开单容量性能时不推断。",
+    "source": "规格与图片采用 https://www.kingspec.com/product/u2-pcie-ssd-ysu2.html",
+    "image": "assets/products/ysu2-official.jpg",
+    "imageSource": "https://www.kingspec.com/uploads/image/61726a3ff236d.jpg",
+    "specs": [
+      [
+        "接口",
+        "U.2 PCIe"
+      ],
+      [
+        "容量范围",
+        "800GB~3.84TB"
+      ],
+      [
+        "顺序读取",
+        "最高 3000 MB/s"
+      ],
+      [
+        "顺序写入",
+        "最高 1700 MB/s"
+      ]
+    ]
+  }
+]

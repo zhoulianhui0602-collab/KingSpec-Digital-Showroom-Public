@@ -1,0 +1,34 @@
+# Normalize text in Git and use LF by default on both platforms.
+* text=auto eol=lf
+
+# Windows launchers use CRLF on checkout.
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Binary assets: no text conversion, no text diff/merge, no LFS filters.
+*.glb binary
+*.blend binary
+*.blend[0-9]* binary
+*.exr binary
+*.hdr binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.psd binary
+*.psb binary
+*.pdf binary
+*.pptx binary
+*.zip binary
+*.7z binary
+*.mp4 binary
+*.mov binary
+*.webm binary
+*.mp3 binary
+*.wav binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.otf binary
